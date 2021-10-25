@@ -66,4 +66,4 @@
 - belongs_to :user
 
 ## ER図
-[ER図URL](https://gyazo.com/1cb039c7c8c9246a93b43342c4cee227)
+[![Image from Gyazo](https://i.gyazo.com/1cb039c7c8c9246a93b43342c4cee227.png)](https://gyazo.com/1cb039c7c8c9246a93b43342c4cee227)

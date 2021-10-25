@@ -5,7 +5,7 @@
 映画観賞後になりたい気分(ここでは"後味"とする)をもとに見たい映画を探すことのできるアプリケーション。
 
 # URL	
-https://atoaji.herokuapp.com/
+[アプリケーションURL](https://atoaji.herokuapp.com/)
 
 # テスト用アカウント  
 ログイン機能等を実装した場合は、ログインに必要な情報を記述。またBasic認証等を設けている場合は、そのID/Passも記述すること。
@@ -66,4 +66,4 @@ https://atoaji.herokuapp.com/
 - belongs_to :user
 
 ## ER図
-https://gyazo.com/1cb039c7c8c9246a93b43342c4cee227
+[ER図URL](https://gyazo.com/1cb039c7c8c9246a93b43342c4cee227)

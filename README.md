@@ -64,6 +64,18 @@
 #### Association
 
 - belongs_to :user
+- belongs_to :genre
+
+### genres テーブル
+
+| Column        | Type       | Options                        |
+| ------------- | ---------- | ------------------------------ |
+| genre         | string     | null: false                    |
+| post          | references | null: false, foreign_key: true |
+
+#### Association
+
+- has_many :posts
 
 ## ER図
-[![Image from Gyazo](https://i.gyazo.com/1cb039c7c8c9246a93b43342c4cee227.png)](https://gyazo.com/1cb039c7c8c9246a93b43342c4cee227)
+

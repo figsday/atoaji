@@ -14,6 +14,7 @@
  *= require_self
  */
 
- * {
-  box-sizing: border-box;
-}
+ @font-face {
+  font-family: "font_1_kokugl_1.15_rls";
+  src: url('/assets/font_1_kokugl_1.15_rls.ttf');
+ }

@@ -13,3 +13,8 @@
  *= require_tree .
  *= require_self
  */
+
+ @font-face {
+  font-family: "font_1_kokugl_1.15_rls";
+  src: url('/assets/font_1_kokugl_1.15_rls.ttf');
+ }
